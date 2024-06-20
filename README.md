@@ -32,7 +32,6 @@ If you use this dataset in your research, please cite the following paper:
 
 ## License: CC BY
 
-## Contact
 Contact Information: azd0123@auburn.edu
 ---
 
