@@ -37,5 +37,5 @@ For any questions or feedback, feel free to contact the authors of the paper or 
 Contact Information: azd0123@auburn.edu
 ---
 
-This README provides an overview of the HateSpeechCorpus, including its source, length, annotators, keywords used for generation, and citation details. The dataset is a valuable resource for advancing the field of hate speech detection.
+This README provides an overview of the OffenSiveLang, including its source, length, annotators, keywords used for generation, and citation details. The dataset is a valuable resource for advancing the field of hate speech detection.
 
