@@ -6,7 +6,7 @@ The OffensiveLang is a community based implicit offensive language dataset gener
 **Source:** ChatGPT 3.5  
 **Length:** 8270 texts
 *train:* 6616 texts
-*train:* 1654 texts
+*test:* 1654 texts
 
 ##OffensiveLang.csv_Details
 
