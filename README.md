@@ -32,7 +32,7 @@ If you use this dataset in your research, please cite the following paper:
 
 ## License: CC BY
 
-Contact Information: azd0123@auburn.edu
+Contact Information: adas@una.edu
 ---
 
 This README provides an overview of the OffenSiveLang, including its source, length, annotators, keywords used for generation, and citation details. The dataset is a valuable resource for advancing the field of hate speech detection.
