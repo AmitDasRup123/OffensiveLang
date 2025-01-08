@@ -18,7 +18,7 @@ Column5: OpenAI_Annotation: Annotation provided by ChatGPT 3.5.
 Column6-8: Annotator1-3: Individual annotations from three human annotators.
 
 ## Paper
-For a detailed investigation of the OffensiveLang dataset, refer to the associated paper: [OffensiveLang: A Community Based Implicit Offensive Language Dataset](https://arxiv.org/abs/2403.02472).
+For a detailed investigation of the OffensiveLang dataset, refer to the associated paper: [OffensiveLang: A Community Based Implicit Offensive Language Dataset](https://ieeexplore.ieee.org/abstract/document/10786820).
 
 ## Citation
 If you use this dataset in your research, please cite the following paper:
